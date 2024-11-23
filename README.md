@@ -16,7 +16,7 @@ Este projeto implementa um quiz interativo em **Java** com perguntas de múltipl
 **Java**
 
 ## Como Clonar o Repositório  
-Caso queira clonar o repositório, execute no terminal:
+Caso queira clonar o repositório, execute no terminal
 
 ```bash
 git clone https://github.com/SamucaFront/Summer-quiz.git
